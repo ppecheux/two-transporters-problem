@@ -24,7 +24,7 @@ Lassen Sie uns das Problem unter Gleichungen stellen.
 
 ## Formulierung
 
-$x_{11}, \dots ,x_{P1}, x_{12}, \dots ,x_{P2} $, entsprechen der transportierten Menge für das Produkt $p$ mit dem LKW $t$ 1 oder 2.
+$x_{11}, \dots ,x_{P1}, x_{12}, \dots ,x_{P2} $, entsprechen der transportierten Menge für das Produkt $p$ mit dem Transporter $t$ 1 oder 2.
 
 Wir wollen die Funktion $f$ maximieren.
 
